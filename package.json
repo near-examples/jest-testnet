@@ -19,7 +19,7 @@
     "dotenv": "^10.0.0",
     "jest": "^27.0.6",
     "near-api-js": "^0.42.0",
-    "near-cli": "^2.0.2",
+    "near-cli": "^2.1.0",
     "near-sdk-as": "^3.2.3"
   },
   "jest": {
